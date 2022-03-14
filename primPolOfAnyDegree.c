@@ -69,4 +69,5 @@ void main()
     {
         lfsr(n, i, op);
     }
+    fclose(op);
 }
